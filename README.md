@@ -1,2 +1,2 @@
 # curriculum
-<a href="cv-federico-josé-lleó-miranda.pdf">Curriculum</a>
+<iframe src="cv-federico-josé-lleó-miranda.pdf"></iframe>
